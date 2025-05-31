@@ -1,4 +1,4 @@
-package com.mrseams.microserviceswithspringboot.model;
+package com.mrseams.microserviceswithspringboot.product.model;
 
 
 import lombok.AllArgsConstructor;

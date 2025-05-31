@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 public class ProductServiceAPI {
 
     @Bean
-    public OpenAPI openAPIConfig() {
+    public OpenAPI publicServiceAPI() {
         return new OpenAPI()
                 .info(new Info().title("Product Service API")
                         .version("v1")
