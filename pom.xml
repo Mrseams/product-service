@@ -11,7 +11,7 @@
     <groupId>com.mrseams</groupId>
     <artifactId>product-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <artifactId>product-service</artifactId>
+    <name>product-service</name>
     <description>microservices-with-springboot</description>
     <url/>
     <licenses>
