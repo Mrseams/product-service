@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mrseams</groupId>
-    <artifactId>microservices-with-springboot</artifactId>
+    <artifactId>product-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>microservices-with-springboot</name>
+    <artifactId>product-service</artifactId>
     <description>microservices-with-springboot</description>
     <url/>
     <licenses>
